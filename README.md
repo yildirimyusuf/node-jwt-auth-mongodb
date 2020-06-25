@@ -1,7 +1,7 @@
 # node-jwt-auth-mongodb
 node-jwt-auth-mongodb
 
-#DB Config
+# DB Config
 
 app/config/db.config
 
@@ -11,7 +11,7 @@ HOST: "host",
 DB: "db"
 
 
-#Guide
+# Guide
 
 npm install
 
